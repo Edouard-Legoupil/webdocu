@@ -1,0 +1,114 @@
+{
+    "title": "nyragongo",
+    "description": "A presentation describing the need to monitor biodiversity in the oceans",
+    "remote": "http://videos-cdn.mozilla.net/serv/webmademovies/Moz_Doc_0329_GetInvolved_ST.webm",
+    "data": {
+        "data": [{
+            "googlemap": {
+                "start": 34,
+                "end": 54,
+                "type": "T",
+                "zoom": 10,
+                "lat": -1.5228,
+                "lng": 29.252357,
+                "location": "Kivu",
+                "target": "googlemap-container",
+                "id": "googlemap1308167684091"
+            }
+        }, {
+            "image": {
+                "start": 5,
+                "end": 10,
+                "src": "images/1.jpg",
+                "target": "image-container",
+                "link": {},
+                "id": "image1308168076519"
+            }
+        }, {
+            "image": {
+                "start": 14,
+                "end": 20,
+                "src": "images/2.jpg",
+                "target": "image-container",
+                "link": {},
+                "id": "image1308168076520"
+            }
+        }, 
+         {
+            "image": {
+                "start": 22,
+                "end": 42,
+                "src": "images/3.jpg",
+                "target": "image-container",
+                "link": {},
+                "id": "image1308168076521"
+            }
+        },{
+            "wikipedia": {
+                "start": 17,
+                "end": 24,
+                "lang": "en",
+                "src": "http://en.wikipedia.org/wiki/Mount_Nyiragongo",
+                "numberofwords": 200,
+                "target": "wikipedia-container",
+                "id": "wikipedia1308168079083"
+            }
+        },
+        {
+            "footnote": {
+                "start": 6,
+                "end": 15,
+                "text": "Mount Nyiragongo is amazing",
+                "target": "footnote-container",
+                "id": "footnote1308168081422"
+            }
+        }, {
+            "subtitle": {
+                "start": 3,
+                "end": 4,
+                "text": "Nyiragongo",
+                "target": "subtitle-container",
+                "container": {},
+                "id": "subtitle1308168085949"
+            }
+        }, 
+        {
+            "subtitle": {
+                "start": 4,
+                "end": 5,
+                "text": "is a big vulcano",
+                "target": "subtitle-container",
+                "container": {},
+                "id": "subtitle1308168085950"
+            }
+        }, {
+            "wordriver": {
+                "start": 24,
+                "end": 28,
+                "text": "but it's really dangerous",
+                "target": "wordriver-container",
+                "word": {},
+                "id": "wordriver1308168094947",
+                "color": "white"
+            }
+        }, {
+            "webpage": {
+                "start": 21.75,
+                "end": 26.25,
+                "src": "http://en.wikipedia.org/wiki/Harry_Potter",
+                "target": "webpage-container",
+                "id": "webpage1308168090055"
+            }
+        }]
+    },
+    "targets": {},
+    "tracks": {
+        "trackLiner0": ["footnote1308168081422"],
+        "trackLiner1": ["googlemap1308167684091"],
+        "trackLiner2": ["subtitle1308168085949"],
+        "trackLiner3": ["wikipedia1308168079083", "webpage1308168090055"],
+        "trackLiner4": [],
+        "trackLiner5": ["image1308168076519"],
+        "trackLiner6": ["wordriver1308168094947"]
+    }
+}
