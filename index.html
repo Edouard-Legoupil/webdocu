@@ -26,11 +26,16 @@
   <script>
       document.addEventListener( "DOMContentLoaded", 
 				function() {
-					 var p = Popcorn( Popcorn.youtube( 'video-container', 'http://www.youtube.com/watch?v=boHQ2ny4Di4',
-										{ width: 460 } ) );
-					p.parseJSON("javascripts/data.json");
-					}, 
-			false );
+					///var p = Popcorn( Popcorn.youtube( 'video-container', 'http://www.youtube.com/watch?v=boHQ2ny4Di4',
+					//					{ width: 460 } ) );
+				//	p.parseJSON("javascripts/data.json");
+				//	}, 
+			// false );
+			
+			var p = Popcorn( Popcorn.parseJSON( "javascripts/data.json", function() {
+            					 alert( "JSON Parsed Successfully" );
+				           });
+			
   </script>
 </head>
   
