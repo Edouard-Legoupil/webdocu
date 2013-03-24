@@ -1,6 +1,6 @@
 {
-    "title": "nyragongo",
-    "description": "A presentation describing the need to monitor biodiversity in the oceans",
+    "title": "Nyragongo",
+    "description": "A presentation of the most amazing vulcano on Earth",
     "remote": "http://videos-cdn.mozilla.net/serv/webmademovies/Moz_Doc_0329_GetInvolved_ST.webm",
     "data": {
         "data": [{
@@ -58,7 +58,7 @@
             "footnote": {
                 "start": 6,
                 "end": 15,
-                "text": "Mount Nyiragongo is amazing",
+                "text": "The biggest lavae lake...",
                 "target": "footnote-container",
                 "id": "footnote1308168081422"
             }
@@ -95,7 +95,7 @@
             "webpage": {
                 "start": 21.75,
                 "end": 26.25,
-                "src": "http://en.wikipedia.org/wiki/Harry_Potter",
+                "src": "http://en.wikipedia.org/wiki/Lava",
                 "target": "webpage-container",
                 "id": "webpage1308168090055"
             }
